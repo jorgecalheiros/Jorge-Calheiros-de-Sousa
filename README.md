@@ -1,5 +1,5 @@
 ### Olá, eu sou Jorge Calheiros de Sousa 👋
-Desenvoledor PHP e JavaScript, concursei a Etec e agora sou Fatecano e sempre busco aprender novas tecnologias e adoro coda
+Desenvoledor PHP e JavaScript, fiz Etec de Análise e Desenvolvimento de Sistema e agora sou Fatecano e sempre busco aprender novas tecnologias e adoro coda
 
 <hr>
 
